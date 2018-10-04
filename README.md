@@ -3,7 +3,9 @@
 <nav style="background-color: azure">
     
    
-    <h1 style="color: aqua; font-size: 10px;">Cambios generados al momento</h1> 
+# Cambios generados al momento
+
+    
 <ul>
     <li><a href="#" style="text-shadow: 10px;">#Cambios del archivo a las 6:43</a>
 </li>
@@ -16,8 +18,7 @@
 
 </nav>
 
-
-
+:simple_smile:
 
 
 </center>
