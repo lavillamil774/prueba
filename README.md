@@ -1,6 +1,7 @@
 
 <center>
-<nav style="background-color: azure">
+<nav style="background-color: blue; ">
+    
     
    
 # Cambios generados al momento :shipit:
@@ -19,7 +20,7 @@
 </nav>
 # :smile:
 
-## :simple_smile:
-
+# simple_smile:
+# :hotel:
 
 </center>
